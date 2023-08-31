@@ -1,0 +1,101 @@
+**Épico - Solução Integrada de Business Intelligence para SUPED MS**
+
+---
+
+**1. Contexto:**
+
+O SUPED MS, encarregado das decisões educacionais do Mato Grosso do Sul, se baseia em um método manual de coleta de dados do SGDE, complementado com planilhas de Excel. Esta abordagem, além de ser demorada, não proporciona uma visão integrada dos variados conjuntos de dados cruciais para a instituição, que incluem informações detalhadas sobre docentes, servidores não-docentes, escolas e alunos.
+
+---
+
+**2. Necessidade Identificada:**
+
+O SUPED MS busca uma solução de Business Intelligence que unifique e simplifique o acesso às seguintes informações vitais:
+
+- **Informações sobre Docentes:**
+  - Associação por escola.
+  - Município da escola.
+  - Função (incluindo administrativas).
+  - Formação.
+  - Carga horária.
+  - Disciplina ou Componente Curricular.
+  - Tipo de contratação.
+
+- **Servidores Não-Docentes:**
+  - Atuação em funções administrativas.
+
+- **Escolas:**
+  - Município.
+  - Turmas e anos/fases.
+  - Classificação (urbana/rural).
+  - Regime (integral/parcial).
+  - Designação (indígena/quilombola).
+
+- **Alunos:**
+  - Total matriculado.
+  - Status (em curso, transferido, etc.).
+  - Ocorrências (transferências, aprovações).
+  - Notas e classificações.
+  - Faltas.
+  - Dados demográficos (etnia, idade, sexo).
+
+Com esses dados centralizados, a equipe poderá se focar em análises estratégicas.
+
+---
+
+**3. Cenário Atual:**
+
+Dependência de processos manuais, com possível falta de precisão e ineficiências.
+
+---
+
+**4. Riscos Associados:**
+
+- Imprecisão dos dados.
+- Decisões subotimizadas.
+- Gestão escolar ineficiente.
+
+---
+
+**5. Cenário Desejado:**
+
+Uma plataforma integrada de Business Intelligence que forneça insights valiosos a partir de dados educacionais unificados.
+
+---
+
+**6. Impactos do Cenário Atual:**
+
+Processos mais lentos, risco de erros e decisões menos informadas.
+
+---
+
+**7. Abrangência do Problema:**
+
+Outras instituições educacionais enfrentam desafios similares na gestão de dados.
+
+---
+
+**8. Objetivo do Épico:**
+
+Aprimorar o processo de análise de dados para SUPED MS, levando a decisões mais informadas.
+
+---
+
+**9. Viabilidade da Demanda:**
+
+A demanda alinha-se ao escopo do produto, mas pode necessitar de ajustes específicos.
+
+---
+
+**10. Indicadores de Sucesso:**
+
+- Tempo de análise reduzido.
+- Precisão dos dados.
+- Feedback positivo sobre decisões informadas.
+
+---
+
+**11. Dependências para Execução:**
+
+- Cadastro de escolas (indígenas/quilombolas).
+- Integração com dashboards da CORLOT.
